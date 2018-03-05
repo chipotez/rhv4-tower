@@ -317,7 +317,7 @@ WARNING: Seleccionar las opciones como se muestran a continuación
 
 Acceda al Portal de administración utilizando un navegador web.
 
-  1 En un navegador web, vaya a, {manager-fqdn} con el nombre de dominio completo que proporcionó durante la instalación. https://your-manager-fqdn/ovirt-engine.
+  1 En un navegador web, vaya a, {manager-fqdn} con el nombre de dominio completo que proporcionó durante la instalación. https://your-manager-ip/ovirt-engine.
 
   2 Haga clic en Portal de administración. Se muestra una página de inicio de sesión de SSO. El inicio de sesión de SSO le permite iniciar sesión en la administración y en el portal de VM al mismo tiempo.
 
